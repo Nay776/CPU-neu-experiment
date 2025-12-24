@@ -1,8 +1,8 @@
 `include "lib/defines.vh"
+
 module ID(
     input wire clk,
     input wire rst,
-    // input wire flush,
     input wire [`StallBus-1:0] stall,
     input wire ex_is_load,
     output wire stallreq,

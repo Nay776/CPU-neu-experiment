@@ -1,4 +1,4 @@
-# CPU-neu-experiment
+<<<<<<< HEAD
 ***
 ## 东北大学计算机系统实验课程 流水线CPU的设计
 ***
@@ -8,3 +8,7 @@
 
 * **Szw**
 * **Zht**
+=======
+# CPU-neu-experiment
+东北大学计算机系统实验课程 流水线CPU的设计
+>>>>>>> f8b948209f77ecf24e48b0f6da2ea822b4ccc2c9
